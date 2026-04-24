@@ -1,6 +1,6 @@
-# OmniGreen OS: Smart Industrial Energy Management System
+# Industrial Energy Management System
 
-OmniGreen OS is an enterprise-grade, microservice-based platform designed to monitor, analyze, and optimize heavy industrial energy consumption. Built with a strict focus on sustainability and data privacy, the system features a real-time IoT telemetry pipeline, carbon footprint tracking, and a completely localized, air-gapped Artificial Intelligence engine capable of answering operational queries and drafting ISO 50001 compliance reports.
+Industrial Energy Management System is an enterprise-grade, microservice-based platform designed to monitor, analyze, and optimize heavy industrial energy consumption. Built with a strict focus on sustainability and data privacy, the system features a real-time IoT telemetry pipeline, carbon footprint tracking, and a completely localized, air-gapped Artificial Intelligence engine capable of answering operational queries and drafting ISO 50001 compliance reports.
 
 This project was developed at the Vidyalankar Institute of Technology (VIT), Mumbai as a capstone engineering demonstration of sustainable technology and localized machine learning pipelines.
 
